@@ -1,0 +1,7 @@
+{
+    "name": "IOTMesrv",
+    "description": "simple and fast messaging server for the Internet of Things",
+    "repository": "https://github.com/milapbhojak/IOTMesrv",
+    "keywords": ["internet of things", "iot", "messaging", "m2m", "tornado", "mongodb"],
+    "addons": ["mongolab"]
+}
